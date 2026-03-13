@@ -1,0 +1,8 @@
+{
+  "name": "BIM Assistant v4.2",
+  "description": "Chuyên gia trợ lý ảo cao cấp về Revit Architecture & Tiêu chuẩn BIM Việt Nam (TCVN 14177:2024) - Dữ liệu Sổ tay VCC & Revit Thực chiến",
+  "requestFramePermissions": [
+    "microphone",
+    "clipboard-read"
+  ]
+}
